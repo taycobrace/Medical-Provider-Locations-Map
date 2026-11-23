@@ -2,7 +2,7 @@ name: Update Store Locations
 
 on:
   schedule:
-    - cron: '0 6 1 * *'  # Runs at 6am UTC on the 1st of every month
+    - cron: '0 6 * * *'  # Runs at 6am UTC every day
   workflow_dispatch:       # Allows you to run it manually anytime from GitHub
 
 jobs:
@@ -31,5 +31,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add stores.json
-          git diff --staged --quiet || git commit -m "Auto-update store locations - $(date +'%B %Y')"
+          git diff --staged --quiet || git commit -m "Auto-update store locations - $(date +'%Y-%m-%d')"
           git push
