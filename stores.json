@@ -56,8 +56,8 @@
     "zip": "14215",
     "phone": "7168985216",
     "website": "ecmc.edu",
-    "lat": 42.9276244,
-    "lng": -78.830416
+    "lat": 42.9266228,
+    "lng": -78.8304193
   },
   {
     "id": "18538818712",
@@ -84,18 +84,6 @@
     "lng": -80.0556773
   },
   {
-    "id": "10874875938",
-    "name": "Forte Sports Medicine - Greenwood, IN",
-    "address": "201 Pennsylvania Parkway",
-    "city": "Indianapolis",
-    "state": "IN",
-    "zip": "46280",
-    "phone": "1 (317) 208-1591",
-    "website": "https://forteortho.com",
-    "lat": 39.7683331,
-    "lng": -86.1583502
-  },
-  {
     "id": "18686157718",
     "name": "Foot and Ankle Associates of North Carolina - Raleigh, NC",
     "address": "2701 New Bern Avenue",
@@ -104,8 +92,8 @@
     "zip": "27610",
     "phone": "1 (919) 231-7969",
     "website": "https://www.footandankleassoc.com/",
-    "lat": 35.7843538,
-    "lng": -78.5908618
+    "lat": 35.7849719,
+    "lng": -78.5907586
   },
   {
     "id": "6957433885",
@@ -212,8 +200,8 @@
     "zip": "49006",
     "phone": "1 (269) 373-1019",
     "website": "https://kalamazoopodiatry.com",
-    "lat": 42.294877,
-    "lng": -85.637763
+    "lat": 42.2950542,
+    "lng": -85.637859
   },
   {
     "id": "15320904192",
@@ -236,8 +224,8 @@
     "zip": "60525",
     "phone": "1 (708) 352-5652",
     "website": "https://wspodiatry.com",
-    "lat": 41.7899498,
-    "lng": -87.8928659
+    "lat": 41.8096132,
+    "lng": -87.900671
   },
   {
     "id": "14925375822",
@@ -524,8 +512,8 @@
     "zip": "87108",
     "phone": "505-265-1711",
     "website": "va.gov",
-    "lat": 35.0841034,
-    "lng": -106.650985
+    "lat": 35.0780378,
+    "lng": -106.5774623
   },
   {
     "id": "11575397705",
@@ -536,8 +524,8 @@
     "zip": "29526",
     "phone": "+18433477111",
     "website": "https://www.conwaymedicalcenter.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
-    "lat": 33.7849817,
-    "lng": -79.0006405
+    "lat": 33.8360035,
+    "lng": -79.0478143
   },
   {
     "id": "4173194876",
@@ -560,8 +548,8 @@
     "zip": "60103",
     "phone": "6303721100",
     "website": "https://www.suburbanortho.com/locations/bartlett-illinois/?utm_source=GBP_intrepy&utm_medium=Suburb",
-    "lat": 41.952381,
-    "lng": -88.2091448
+    "lat": 41.9512042,
+    "lng": -88.2056242
   },
   {
     "id": "7186989734",
@@ -716,8 +704,8 @@
     "zip": "78758",
     "phone": "+1 512-450-0101",
     "website": "austinfootandanklecenter.com",
-    "lat": 30.3711681,
-    "lng": -97.7247135
+    "lat": 30.3708473,
+    "lng": -97.7249943
   },
   {
     "id": "15262479475",
@@ -752,8 +740,8 @@
     "zip": "01107",
     "phone": "4137854666",
     "website": "https://neortho.com",
-    "lat": 42.1244551,
-    "lng": -72.6115833
+    "lat": 42.121761,
+    "lng": -72.611009
   },
   {
     "id": "6937830420",
@@ -764,8 +752,8 @@
     "zip": "29681",
     "phone": "+1 844-447-3627",
     "website": "prismahealth.org",
-    "lat": 34.7373045,
-    "lng": -82.255371
+    "lat": 34.7708878,
+    "lng": -82.242306
   },
   {
     "id": "17384179124",
@@ -800,8 +788,8 @@
     "zip": "48033",
     "phone": "2487141635",
     "website": "miorthosurgeons.com",
-    "lat": 42.4894801,
-    "lng": -83.1446485
+    "lat": 42.4576331,
+    "lng": -83.2809666
   },
   {
     "id": "5200522830",
@@ -836,8 +824,8 @@
     "zip": "75246",
     "phone": "+1 844-279-3627",
     "website": "bswhealth.com",
-    "lat": 32.7921184,
-    "lng": -96.7750728
+    "lat": 32.7884786,
+    "lng": -96.7827661
   },
   {
     "id": "16724815794",
@@ -876,6 +864,18 @@
     "lng": -83.6516123
   },
   {
+    "id": "10874875938",
+    "name": "Forte Sports Medicine - Greenwood, IN",
+    "address": "201 Pennsylvania Parkway",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46280",
+    "phone": "1 (317) 208-1591",
+    "website": "https://forteortho.com",
+    "lat": 39.7683331,
+    "lng": -86.1583502
+  },
+  {
     "id": "7187047233",
     "name": "Bay Foot and Ankle Center - Destin, FL",
     "address": "928 Mar Walt Drive",
@@ -884,8 +884,8 @@
     "zip": "32547",
     "phone": "+1 850-855-4048",
     "website": "bayfootandankle.com",
-    "lat": 30.3935337,
-    "lng": -86.4957834
+    "lat": 30.4461663,
+    "lng": -86.6311858
   },
   {
     "id": "9160073313",
@@ -896,8 +896,8 @@
     "zip": "84403",
     "phone": "(801) 627-2122",
     "website": "wasatchfai.com",
-    "lat": 41.1654954,
-    "lng": -111.9555183
+    "lat": 41.1665635,
+    "lng": -111.9580319
   },
   {
     "id": "11575511396",
@@ -932,8 +932,8 @@
     "zip": "64086",
     "phone": "8169182077",
     "website": "joelfosterdpm.com",
-    "lat": 38.933749,
-    "lng": -94.3818809
+    "lat": 38.9107156,
+    "lng": -94.3821295
   },
   {
     "id": "4510578827",
@@ -1184,8 +1184,8 @@
     "zip": "75231",
     "phone": "+12142202468",
     "website": "carrellclinic.com",
-    "lat": 32.8724093,
-    "lng": -96.7697196
+    "lat": 32.8749243,
+    "lng": -96.7712045
   },
   {
     "id": "18604304514",
@@ -1316,8 +1316,8 @@
     "zip": "32940",
     "phone": "321-637-3788",
     "website": "va.gov",
-    "lat": 28.255362,
-    "lng": -80.7434449
+    "lat": 28.243006,
+    "lng": -80.7301522
   },
   {
     "id": "20174307220",
@@ -1388,8 +1388,8 @@
     "zip": "30135",
     "phone": "+1 404-217-2700",
     "website": "gabluefoot.com",
-    "lat": 33.7458572,
-    "lng": -84.7617982
+    "lat": 33.7467822,
+    "lng": -84.759494
   },
   {
     "id": "36445318991",
@@ -1472,8 +1472,8 @@
     "zip": "44691",
     "phone": "1 (330) 345-5500",
     "website": "https://footankledr.com",
-    "lat": 40.8514199,
-    "lng": -81.9457654
+    "lat": 40.7980976,
+    "lng": -81.9397733
   },
   {
     "id": "36527864084",
@@ -1520,8 +1520,8 @@
     "zip": "83301",
     "phone": "+1 208-731-6321",
     "website": "idahofoot.com",
-    "lat": 42.5779557,
-    "lng": -114.4841869
+    "lat": 42.5780846,
+    "lng": -114.4816447
   },
   {
     "id": "30279621461",
@@ -1728,18 +1728,6 @@
     "lng": -85.2417051
   },
   {
-    "id": "18686385484",
-    "name": "The Foot and Ankle Clinics - West Monroe, LA",
-    "address": "3601 Desiard St",
-    "city": "Monroe",
-    "state": "LA",
-    "zip": "71203",
-    "phone": "(318) 397-1574",
-    "website": "https://thefootandankleclinicofwestmonroe.com",
-    "lat": 32.5235116,
-    "lng": -92.0779293
-  },
-  {
     "id": "29703192462",
     "name": "Michigan Surgery Specialists - Chelsea, MI",
     "address": "11012 East 13 Mile Road",
@@ -1784,8 +1772,8 @@
     "zip": "42718",
     "phone": "(270) 465-0632",
     "website": "www.trhosp.org",
-    "lat": 37.345369,
-    "lng": -85.348048
+    "lat": 37.3423126,
+    "lng": -85.3464473
   },
   {
     "id": "22531852948",
@@ -1796,8 +1784,8 @@
     "zip": "27704",
     "phone": "9194779333",
     "website": "https://www.ncfootdoc.com/",
-    "lat": 36.0307601,
-    "lng": -78.9056225
+    "lat": 35.996653,
+    "lng": -78.9018053
   },
   {
     "id": "18686334031",
@@ -1820,8 +1808,8 @@
     "zip": "25550",
     "phone": "3046754340",
     "website": "pvalley.org",
-    "lat": 38.8692323,
-    "lng": -82.1230885
+    "lat": 38.8445251,
+    "lng": -82.1370889
   },
   {
     "id": "28652055328",
@@ -1832,8 +1820,8 @@
     "zip": "34655",
     "phone": "727-372-6637",
     "website": "floridajointcare.com",
-    "lat": 28.1898351,
-    "lng": -82.6667804
+    "lat": 28.1898371,
+    "lng": -82.6667834
   },
   {
     "id": "36527335793",
@@ -2064,6 +2052,18 @@
     "lng": -77.7956949
   },
   {
+    "id": "18686385484",
+    "name": "The Foot and Ankle Clinics - West Monroe, LA",
+    "address": "3601 Desiard St",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "71203",
+    "phone": "(318) 397-1574",
+    "website": "https://thefootandankleclinicofwestmonroe.com",
+    "lat": 32.5235116,
+    "lng": -92.0779293
+  },
+  {
     "id": "19382388664",
     "name": "Athens Podiatry Group - Brownstown, MI",
     "address": "19723 Allen Road",
@@ -2108,8 +2108,8 @@
     "zip": "86001",
     "phone": "+1 928-772-5320",
     "website": "",
-    "lat": 35.2103477,
-    "lng": -111.6407503
+    "lat": 35.2103481,
+    "lng": -111.6406038
   },
   {
     "id": "31952097066",
@@ -2206,6 +2206,18 @@
     "website": "footandankle-usa.com",
     "lat": 38.9959461,
     "lng": -77.0276231
+  },
+  {
+    "id": "18686935221",
+    "name": "Duke Orthopaedics Arringdon - Morrisville, NC",
+    "address": "1545 Orchard Villas Ave Ste 100",
+    "city": "Morrisville",
+    "state": "NC",
+    "zip": "27502",
+    "phone": "1 (919) 862-5093",
+    "website": "https://dukehealth.org",
+    "lat": 35.824341,
+    "lng": -78.8300321
   },
   {
     "id": "20655054905",
@@ -2348,8 +2360,8 @@
     "zip": "33322",
     "phone": "1 (954) 476-9024",
     "website": "https://www.drdavidkmorris.com/",
-    "lat": 26.1486625,
-    "lng": -80.2610486
+    "lat": 26.1471291,
+    "lng": -80.2664117
   },
   {
     "id": "32359294814",
@@ -2364,18 +2376,6 @@
     "lng": -97.3327459
   },
   {
-    "id": "18686935221",
-    "name": "Duke Orthopaedics Arringdon - Morrisville, NC",
-    "address": "1545 Orchard Villas Ave Ste 100",
-    "city": "Morrisville",
-    "state": "NC",
-    "zip": "27502",
-    "phone": "1 (919) 862-5093",
-    "website": "https://dukehealth.org",
-    "lat": 35.824341,
-    "lng": -78.8300321
-  },
-  {
     "id": "32909577869",
     "name": "Southcoast Health - Dartmouth, MA",
     "address": "300 A Faunce Corner Road",
@@ -2384,8 +2384,8 @@
     "zip": "02747",
     "phone": "+15089732211",
     "website": "https://www.southcoast.org/doctors/seth-odonnell-md/#/appointment-chooser/providerId/TC103071/patientTypeId",
-    "lat": 41.653734,
-    "lng": -70.9875699
+    "lat": 41.6573801,
+    "lng": -70.9887592
   },
   {
     "id": "18686315381",
@@ -2444,8 +2444,8 @@
     "zip": "19083",
     "phone": "(610) 449-3344",
     "website": "https://greenfieldpodiatry.com/",
-    "lat": 39.9719127,
-    "lng": -75.2869516
+    "lat": 39.9809452,
+    "lng": -75.3085201
   },
   {
     "id": "41134949644",
@@ -2528,8 +2528,8 @@
     "zip": "34119",
     "phone": "239-566-8800",
     "website": "gulfcoastfootcare.com",
-    "lat": 26.2128855,
-    "lng": -81.733637
+    "lat": 26.2130295,
+    "lng": -81.7334744
   },
   {
     "id": "40965480961",
@@ -2552,8 +2552,8 @@
     "zip": "37064",
     "phone": "(615) 936-7846",
     "website": "https://www.vanderbilthealth.com/locations/vanderbilt-orthopaedics-franklin?utm_source=Yext",
-    "lat": 35.9064306,
-    "lng": -86.8373801
+    "lat": 35.9061567,
+    "lng": -86.8394948
   },
   {
     "id": "41552083349",
@@ -2578,18 +2578,6 @@
     "website": "https://www.pro-healthpodiatry.com/",
     "lat": 32.7459645,
     "lng": -96.9977846
-  },
-  {
-    "id": "42179533836",
-    "name": "Central Texas Foot and Ankle - Georgetown, TX",
-    "address": "3316 Williams Drive, Suite 120",
-    "city": "Georgetown",
-    "state": "TX",
-    "zip": "78628",
-    "phone": " 512.819.4555",
-    "website": "https://www.centexfoot.com/",
-    "lat": 30.6370152,
-    "lng": -97.6775634
   },
   {
     "id": "36785414979",
@@ -2624,8 +2612,8 @@
     "zip": "76054",
     "phone": " 817-518-7600 ",
     "website": "https://www.mytfac.com/",
-    "lat": 32.7762719,
-    "lng": -96.7968559
+    "lat": 32.8548194,
+    "lng": -97.1774571
   },
   {
     "id": "45872027822",
@@ -2638,6 +2626,18 @@
     "website": "https://healthcare.ascension.org/find-care/provider/1528441904/zain-barnouti",
     "lat": 30.3262247,
     "lng": -81.6579179
+  },
+  {
+    "id": "42179533836",
+    "name": "Central Texas Foot and Ankle - Georgetown, TX",
+    "address": "3316 Williams Drive, Suite 120",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "phone": " 512.819.4555",
+    "website": "https://www.centexfoot.com/",
+    "lat": 30.6370152,
+    "lng": -97.6775634
   },
   {
     "id": "36765150983",
@@ -2732,8 +2732,8 @@
     "zip": "27540",
     "phone": "(919) 467-4992",
     "website": "https://www.caryortho.com/",
-    "lat": 35.642737,
-    "lng": -78.832946
+    "lat": 35.642967,
+    "lng": -78.8329875
   },
   {
     "id": "42179594423",
@@ -2924,8 +2924,8 @@
     "zip": "60435",
     "phone": "630-323-6116",
     "website": "https://www.ibji.com/locations/joliet-doctors-office/",
-    "lat": 41.5385708,
-    "lng": -88.1607918
+    "lat": 41.5389921,
+    "lng": -88.160808
   },
   {
     "id": "42791689993",
@@ -2936,8 +2936,8 @@
     "zip": "27215",
     "phone": "(336) 538-6885",
     "website": "https://www.triadfoot.com/tfac/",
-    "lat": 36.080798,
-    "lng": -79.5166439
+    "lat": 36.0832283,
+    "lng": -79.5169355
   },
   {
     "id": "36785444356",
@@ -3056,8 +3056,8 @@
     "zip": "40217",
     "phone": "(502) 893-1844",
     "website": "https://www.louisvillefootandanklespecialists.com/",
-    "lat": 38.2542376,
-    "lng": -85.759407
+    "lat": 38.2175508,
+    "lng": -85.739448
   },
   {
     "id": "36785445501",
@@ -3236,8 +3236,8 @@
     "zip": "34655",
     "phone": "727-312-3355",
     "website": "https://www.adventhealth.com/hospital/adventhealth-north-pinellas/find-doctor/doctor/ronald-troxell-dpm-1851754824",
-    "lat": 28.174485,
-    "lng": -82.6708969
+    "lat": 28.1742461,
+    "lng": -82.6708499
   },
   {
     "id": "46734626466",
@@ -3308,8 +3308,8 @@
     "zip": "68144",
     "phone": "(402) 751-0600",
     "website": "https://prfootandankle.com/",
-    "lat": 41.2326244,
-    "lng": -96.0905488
+    "lat": 41.2587459,
+    "lng": -95.9383758
   },
   {
     "id": "39461206641",
@@ -3416,8 +3416,8 @@
     "zip": "76135",
     "phone": "(817) 238-8400",
     "website": "https://www.advancedfootdoc.com/",
-    "lat": 32.8157848,
-    "lng": -97.4230046
+    "lat": 32.8157803,
+    "lng": -97.4246954
   },
   {
     "id": "41548501543",
@@ -3704,8 +3704,8 @@
     "zip": "39216",
     "phone": "(601) 982-3338",
     "website": "https://www.msfootcenter.com/",
-    "lat": 32.3314923,
-    "lng": -90.1357664
+    "lat": 32.3314651,
+    "lng": -90.1356556
   },
   {
     "id": "55592629786",
@@ -3730,6 +3730,18 @@
     "website": "https://orthopedics.medicine.uiowa.edu/profile/aly-fayed",
     "lat": 41.7215303,
     "lng": -91.6108708
+  },
+  {
+    "id": "55554620445",
+    "name": "Yarger Chiropractic and Acupunture - Chesterfield, MO",
+    "address": "510 Baxter Rd Suite 10",
+    "city": "Chesterfield",
+    "state": "MO",
+    "zip": "63017",
+    "phone": " (636) 220-3335",
+    "website": "https://www.yargerchiropractic.com/",
+    "lat": 38.6581764,
+    "lng": -90.5680617
   },
   {
     "id": "56463120988",
@@ -3908,8 +3920,8 @@
     "zip": "76051",
     "phone": "(817) 421-0505",
     "website": "https://www.tiosorthosports.com/",
-    "lat": 32.9318035,
-    "lng": -97.0893057
+    "lat": 32.9315446,
+    "lng": -97.0920252
   },
   {
     "id": "53883933500",
@@ -3944,8 +3956,8 @@
     "zip": "27612",
     "phone": "9197815600",
     "website": "raleighortho.com",
-    "lat": 35.822644,
-    "lng": -78.708631
+    "lat": 35.8342315,
+    "lng": -78.6969032
   },
   {
     "id": "53077351351",
@@ -4208,8 +4220,8 @@
     "zip": "73503",
     "phone": "(580) 585-5600",
     "website": "https://www.va.gov/oklahoma-city-health-care/locations/lawton-north-va-clinic/",
-    "lat": 34.659733,
-    "lng": -98.4232251
+    "lat": 34.6589102,
+    "lng": -98.4184089
   },
   {
     "id": "52808441363",
@@ -4222,6 +4234,18 @@
     "website": "https://www.upmc.com/services/orthopaedics/locations/west-central-pa/hollidaysburg",
     "lat": 40.430774,
     "lng": -78.3900826
+  },
+  {
+    "id": "57140785968",
+    "name": "McFarland Clinic - Marshalltown, IA",
+    "address": "421 East Merle Hibbs Boulevard",
+    "city": "Marshalltown",
+    "state": "IA",
+    "zip": "50158",
+    "phone": "641-753-4161",
+    "website": "https://www.mcfarlandclinic.com/",
+    "lat": 42.0135393,
+    "lng": -92.9079831
   },
   {
     "id": "53141265236",
@@ -4292,8 +4316,8 @@
     "zip": "37174",
     "phone": "(931) 347-2663",
     "website": "https://toa.com/locations/spring-hill",
-    "lat": 35.7360787,
-    "lng": -86.9119671
+    "lat": 35.7362895,
+    "lng": -86.9119459
   },
   {
     "id": "55508213866",
@@ -4304,8 +4328,8 @@
     "zip": "27608",
     "phone": "(919) 829-0076",
     "website": "https://www.northcarolinafootandankle.com/",
-    "lat": 35.7997938,
-    "lng": -78.6462718
+    "lat": 35.7998576,
+    "lng": -78.6457365
   },
   {
     "id": "51465814343",
@@ -4316,8 +4340,8 @@
     "zip": "33462",
     "phone": "(561) 967-4999",
     "website": "https://sffac.com/",
-    "lat": 26.615891,
-    "lng": -80.0691435
+    "lat": 26.5829913,
+    "lng": -80.0619332
   },
   {
     "id": "55508212364",
@@ -4344,18 +4368,6 @@
     "lng": -78.4027265
   },
   {
-    "id": "57140785968",
-    "name": "McFarland Clinic - Marshalltown, IA",
-    "address": "421 East Merle Hibbs Boulevard",
-    "city": "Marshalltown",
-    "state": "IA",
-    "zip": "50158",
-    "phone": "641-753-4161",
-    "website": "https://www.mcfarlandclinic.com/",
-    "lat": 42.0135393,
-    "lng": -92.9079831
-  },
-  {
     "id": "50517840972",
     "name": "USFAS - Cary, NC (Piedmont Foot & Ankle Specialists)",
     "address": "103 Parkway Office Court, Suite 100",
@@ -4376,8 +4388,8 @@
     "zip": "28277",
     "phone": "704-455-2999",
     "website": "https://www.ryanfoot.com/harrisburg-office",
-    "lat": 35.3258295,
-    "lng": -80.6454979
+    "lat": 35.0499623,
+    "lng": -80.8181888
   },
   {
     "id": "48492222784",
@@ -4404,18 +4416,6 @@
     "lng": -74.8309913
   },
   {
-    "id": "55554620445",
-    "name": "Yarger Chiropractic and Acupunture - Chesterfield, MO",
-    "address": "510 Baxter Rd Suite 10",
-    "city": "Chesterfield",
-    "state": "MO",
-    "zip": "63017",
-    "phone": " (636) 220-3335",
-    "website": "https://www.yargerchiropractic.com/",
-    "lat": 38.6581764,
-    "lng": -90.5680617
-  },
-  {
     "id": "57248423599",
     "name": "Grand Lake Foot and Ankle Center - St. Mary's, OH",
     "address": "1013 E Spring St",
@@ -4436,8 +4436,8 @@
     "zip": "98108",
     "phone": "800-329-8387",
     "website": "https://www.va.gov/puget-sound-health-care/locations/seattle-va-medical-center/",
-    "lat": 47.5624114,
-    "lng": -122.3083385
+    "lat": 47.5630816,
+    "lng": -122.3068931
   },
   {
     "id": "56468476575",
@@ -4508,8 +4508,8 @@
     "zip": "33903",
     "phone": "(239) 656-6565",
     "website": "https://fortmyersfootwellness.com/",
-    "lat": 26.7119122,
-    "lng": -81.9024605
+    "lat": 26.6984128,
+    "lng": -81.9007238
   },
   {
     "id": "53656962420",
@@ -4568,8 +4568,8 @@
     "zip": "75010",
     "phone": "(972) 394-0825",
     "website": "https://www.swpfa.com/",
-    "lat": 33.0284071,
-    "lng": -96.8839854
+    "lat": 33.0279035,
+    "lng": -96.8842841
   },
   {
     "id": "48256049505",
@@ -4604,8 +4604,8 @@
     "zip": "84108",
     "phone": "(801) 582-1565",
     "website": "https://www.va.gov/salt-lake-city-health-care/",
-    "lat": 40.7473221,
-    "lng": -111.8321826
+    "lat": 40.725657,
+    "lng": -111.8147582
   },
   {
     "id": "56136869755",
@@ -4628,8 +4628,8 @@
     "zip": "49037",
     "phone": "269-966-5600",
     "website": "https://www.va.gov/battle-creek-health-care/",
-    "lat": 42.343909,
-    "lng": -85.2884568
+    "lat": 42.3421802,
+    "lng": -85.2875713
   },
   {
     "id": "56463389063",
@@ -4724,8 +4724,8 @@
     "zip": "25601",
     "phone": "304.831.1720",
     "website": "https://www.loganregionalmedicalcenter.com",
-    "lat": 37.8465102,
-    "lng": -81.9945336
+    "lat": 37.8465029,
+    "lng": -81.9945093
   },
   {
     "id": "54830328209",
@@ -4784,8 +4784,8 @@
     "zip": "16001",
     "phone": "724-482-4192",
     "website": "https://butlerpodiatry.com/",
-    "lat": 40.8648894,
-    "lng": -79.9681915
+    "lat": 40.8650843,
+    "lng": -79.9682854
   },
   {
     "id": "53948569782",
@@ -4796,8 +4796,8 @@
     "zip": "51503",
     "phone": "(712) 396-2000",
     "website": "https://orthonebraska.com/location/council-bluffs/",
-    "lat": 41.2463804,
-    "lng": -95.8168004
+    "lat": 41.2483984,
+    "lng": -95.8148183
   },
   {
     "id": "57937777450",
@@ -4856,8 +4856,8 @@
     "zip": "27514",
     "phone": "(919) 281-1854",
     "website": "https://emergeortho.com/locations/chapel-hill/?region=triangle-region%3Futm_source%3Dgbp",
-    "lat": 35.9646099,
-    "lng": -79.0571225
+    "lat": 35.9643275,
+    "lng": -79.0561007
   },
   {
     "id": "58184974972",
@@ -4872,16 +4872,16 @@
     "lng": -112.074141
   },
   {
-    "id": "58429147956",
-    "name": "Suburban Foot & Ankle Center - Bloomingdale, IL",
-    "address": "303 E Army Trail Rd #101",
-    "city": "Bloomingdale",
-    "state": "IL",
-    "zip": "60108",
-    "phone": "(630) 893-3668",
-    "website": "https://www.footankleil.com/",
-    "lat": 41.9575285,
-    "lng": -88.0809036
+    "id": "58796000778",
+    "name": "AnMed Health Orthopedics - Anderson, SC",
+    "address": "100 Healthy Way Ste 1200",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621",
+    "phone": "864-512-6140  ",
+    "website": "anmed.org",
+    "lat": 34.5258335,
+    "lng": -82.652962
   },
   {
     "id": "58216095658",
@@ -4932,16 +4932,16 @@
     "lng": -87.8495946
   },
   {
-    "id": "58511057939",
-    "name": "OrthoTexas - Carrollton, TX",
-    "address": " 4780 N Josey Ln",
-    "city": "Carrollton",
-    "state": "TX",
-    "zip": "75010",
-    "phone": "(972) 492-1334",
-    "website": "https://www.orthotexas.com/",
-    "lat": 33.0432285,
-    "lng": -96.8800041
+    "id": "58805153310",
+    "name": "Southern Bone and Joint Specialists - Hattiesburg, MS",
+    "address": "3688 Veteran Memorial Dr",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39401",
+    "phone": "(601) 554-7400",
+    "website": "https://southernboneandjoint.com/",
+    "lat": 31.3271189,
+    "lng": -89.2903392
   },
   {
     "id": "60671754374",
@@ -4954,6 +4954,18 @@
     "website": "https://www.toportho.com/",
     "lat": 40.6460921,
     "lng": -111.4979963
+  },
+  {
+    "id": "58511057939",
+    "name": "OrthoTexas - Carrollton, TX",
+    "address": " 4780 N Josey Ln",
+    "city": "Carrollton",
+    "state": "TX",
+    "zip": "75010",
+    "phone": "(972) 492-1334",
+    "website": "https://www.orthotexas.com/",
+    "lat": 33.0432285,
+    "lng": -96.8800041
   },
   {
     "id": "57671644207",
@@ -4980,18 +4992,6 @@
     "lng": -80.2593689
   },
   {
-    "id": "57673274245",
-    "name": "The Orthopaedic Center - Huntsville, AL (TOC)",
-    "address": "927 Franklin Street Southeast",
-    "city": "Huntsville",
-    "state": "AL",
-    "zip": "35801",
-    "phone": "(256) 539-2728 ",
-    "website": "visittoc.com",
-    "lat": 34.720931,
-    "lng": -86.577119
-  },
-  {
     "id": "57765289484",
     "name": "Podiatric Associates of NW Ohio - Maumee, OH",
     "address": "609 Ford St",
@@ -5000,8 +5000,8 @@
     "zip": "43537",
     "phone": "(419) 893-5539",
     "website": "https://www.toledopodiatrist.com/",
-    "lat": 41.5625135,
-    "lng": -83.6660803
+    "lat": 41.5622303,
+    "lng": -83.6655258
   },
   {
     "id": "58030706062",
@@ -5012,8 +5012,20 @@
     "zip": "83404",
     "phone": "+12088261270",
     "website": "https://www.alpinefootandankle.clinic/",
-    "lat": 43.4715631,
-    "lng": -111.9887663
+    "lat": 43.4720957,
+    "lng": -111.9886469
+  },
+  {
+    "id": "57673274245",
+    "name": "The Orthopaedic Center - Huntsville, AL (TOC)",
+    "address": "927 Franklin Street Southeast",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35801",
+    "phone": "(256) 539-2728 ",
+    "website": "visittoc.com",
+    "lat": 34.7208804,
+    "lng": -86.5770831
   },
   {
     "id": "58603063679",
@@ -5100,6 +5112,18 @@
     "lng": -75.6324112
   },
   {
+    "id": "59943030704",
+    "name": "Broadway Foot Ankle and Wound Care - Garland, TX",
+    "address": "2910 Broadway Blvd Ste 212",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75041",
+    "phone": "(972) 435-6096",
+    "website": "https://broadwayfootanklecare.com/",
+    "lat": 32.912624,
+    "lng": -96.6388833
+  },
+  {
     "id": "57671275153",
     "name": "Thayer County Health Services - Hebron, NE",
     "address": "120 Park Ave",
@@ -5112,18 +5136,6 @@
     "lng": -97.5939371
   },
   {
-    "id": "58805153310",
-    "name": "Southern Bone and Joint Specialists - Hattiesburg, MS",
-    "address": "3688 Veteran Memorial Dr",
-    "city": "Hattiesburg",
-    "state": "MS",
-    "zip": "39401",
-    "phone": "(601) 554-7400",
-    "website": "https://southernboneandjoint.com/",
-    "lat": 31.3271189,
-    "lng": -89.2903392
-  },
-  {
     "id": "58556642690",
     "name": "The Pines of Dekalb - Butler, IN.",
     "address": "520 W Liberty St",
@@ -5134,18 +5146,6 @@
     "website": "https://www.asccare.com/community/the-pines-of-dekalb/",
     "lat": 41.432489,
     "lng": -84.8784723
-  },
-  {
-    "id": "59943030704",
-    "name": "Broadway Foot Ankle and Wound Care - Garland, TX.",
-    "address": "2910 Broadway Blvd Ste 212",
-    "city": "Garland",
-    "state": "TX",
-    "zip": "75041",
-    "phone": "(972) 435-6096",
-    "website": "https://broadwayfootanklecare.com/",
-    "lat": 32.912624,
-    "lng": -96.6388833
   },
   {
     "id": "61642498223",
@@ -5184,18 +5184,6 @@
     "lng": -87.9455344
   },
   {
-    "id": "58796000778",
-    "name": "AnMed Health Orthopedics - Anderson, SC",
-    "address": "100 Healthy Way Ste 1200",
-    "city": "Anderson",
-    "state": "SC",
-    "zip": "29621",
-    "phone": "864-512-6140  ",
-    "website": "anmed.org",
-    "lat": 34.5258335,
-    "lng": -82.652962
-  },
-  {
     "id": "57352168246",
     "name": "Northwest Center for Regenerative Medicine - Spokane, WA",
     "address": "509 W Hanley Ave",
@@ -5216,8 +5204,8 @@
     "zip": "46970",
     "phone": "(765) 472-8000",
     "website": "https://www.dukesmemorialhosp.com/",
-    "lat": 40.7563568,
-    "lng": -86.0840621
+    "lat": 40.756805,
+    "lng": -86.0823461
   },
   {
     "id": "57486899324",
@@ -5245,7 +5233,7 @@
   },
   {
     "id": "61644855441",
-    "name": "USFAS -  Raleigh, NC - (Wake Forest Rd) - (Raleigh Foot and Ankle Specialists)",
+    "name": "USFAS -  Raleigh, NC (Wake Forest Rd) (Raleigh Foot and Ankle Specialists)",
     "address": "801 Wake Forest Rd. Suite 100",
     "city": "Raleigh",
     "state": "NC",
@@ -5268,6 +5256,18 @@
     "lng": -84.5919173
   },
   {
+    "id": "58429147956",
+    "name": "Suburban Foot & Ankle Center - Bloomingdale, IL",
+    "address": "303 E Army Trail Rd #101",
+    "city": "Bloomingdale",
+    "state": "IL",
+    "zip": "60108",
+    "phone": "(630) 893-3668",
+    "website": "https://www.footankleil.com/",
+    "lat": 41.9575285,
+    "lng": -88.0809036
+  },
+  {
     "id": "59170210157",
     "name": "Orthopedic Associates of Port Huron - Port Huron, MI",
     "address": "940 River Centre Dr",
@@ -5276,8 +5276,8 @@
     "zip": "48060",
     "phone": "(810) 985-4900",
     "website": "https://www.oaph.com/",
-    "lat": 42.9778375,
-    "lng": -82.431522
+    "lat": 42.9778075,
+    "lng": -82.4316773
   },
   {
     "id": "57940427104",
