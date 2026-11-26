@@ -56,8 +56,8 @@
     "zip": "14215",
     "phone": "7168985216",
     "website": "ecmc.edu",
-    "lat": 42.9266228,
-    "lng": -78.8304193
+    "lat": 42.9276244,
+    "lng": -78.830416
   },
   {
     "id": "18538818712",
@@ -68,8 +68,8 @@
     "zip": "19805",
     "phone": "302-994-2511",
     "website": "va.gov",
-    "lat": 39.7414885,
-    "lng": -75.6069545
+    "lat": 39.7412393,
+    "lng": -75.6053583
   },
   {
     "id": "4164380675",
@@ -92,8 +92,8 @@
     "zip": "27610",
     "phone": "1 (919) 231-7969",
     "website": "https://www.footandankleassoc.com/",
-    "lat": 35.7849719,
-    "lng": -78.5907586
+    "lat": 35.7843538,
+    "lng": -78.5908618
   },
   {
     "id": "6957433885",
@@ -200,8 +200,8 @@
     "zip": "49006",
     "phone": "1 (269) 373-1019",
     "website": "https://kalamazoopodiatry.com",
-    "lat": 42.2950542,
-    "lng": -85.637859
+    "lat": 42.294877,
+    "lng": -85.637763
   },
   {
     "id": "15320904192",
@@ -224,8 +224,8 @@
     "zip": "60525",
     "phone": "1 (708) 352-5652",
     "website": "https://wspodiatry.com",
-    "lat": 41.8096132,
-    "lng": -87.900671
+    "lat": 41.7899498,
+    "lng": -87.8928659
   },
   {
     "id": "14925375822",
@@ -440,8 +440,8 @@
     "zip": "95008",
     "phone": "4083703338",
     "website": "https://www.drrobinson.net/",
-    "lat": 37.2940804,
-    "lng": -121.9461932
+    "lat": 37.2942348,
+    "lng": -121.9490696
   },
   {
     "id": "4510416211",
@@ -452,8 +452,8 @@
     "zip": "84604",
     "phone": "8013743010",
     "website": "randygarrdpm.com",
-    "lat": 40.2524442,
-    "lng": -111.6592464
+    "lat": 40.2525232,
+    "lng": -111.6592371
   },
   {
     "id": "18686233751",
@@ -512,8 +512,8 @@
     "zip": "87108",
     "phone": "505-265-1711",
     "website": "va.gov",
-    "lat": 35.0780378,
-    "lng": -106.5774623
+    "lat": 35.0841034,
+    "lng": -106.650985
   },
   {
     "id": "11575397705",
@@ -524,8 +524,8 @@
     "zip": "29526",
     "phone": "+18433477111",
     "website": "https://www.conwaymedicalcenter.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
-    "lat": 33.8360035,
-    "lng": -79.0478143
+    "lat": 33.7849817,
+    "lng": -79.0006405
   },
   {
     "id": "4173194876",
@@ -548,8 +548,8 @@
     "zip": "60103",
     "phone": "6303721100",
     "website": "https://www.suburbanortho.com/locations/bartlett-illinois/?utm_source=GBP_intrepy&utm_medium=Suburb",
-    "lat": 41.9512042,
-    "lng": -88.2056242
+    "lat": 41.95106,
+    "lng": -88.206495
   },
   {
     "id": "7186989734",
@@ -586,18 +586,6 @@
     "website": "https://stopfootpaintoday.com",
     "lat": 41.3822398,
     "lng": -81.7355692
-  },
-  {
-    "id": "18686264128",
-    "name": "Northern Illinois Foot and Ankle Specialists - Crystal Lake, IL",
-    "address": "750 E. TERRA COTTA AVE",
-    "city": "CRYSTAL LAKE",
-    "state": "IL",
-    "zip": "60014",
-    "phone": "+1 847-639-5800",
-    "website": "https://illinoisfoot.com",
-    "lat": 42.2486921,
-    "lng": -88.2935504
   },
   {
     "id": "4173089508",
@@ -704,8 +692,8 @@
     "zip": "78758",
     "phone": "+1 512-450-0101",
     "website": "austinfootandanklecenter.com",
-    "lat": 30.3708473,
-    "lng": -97.7249943
+    "lat": 30.3711681,
+    "lng": -97.7247135
   },
   {
     "id": "15262479475",
@@ -740,8 +728,8 @@
     "zip": "01107",
     "phone": "4137854666",
     "website": "https://neortho.com",
-    "lat": 42.121761,
-    "lng": -72.611009
+    "lat": 42.1244551,
+    "lng": -72.6115833
   },
   {
     "id": "6937830420",
@@ -752,8 +740,8 @@
     "zip": "29681",
     "phone": "+1 844-447-3627",
     "website": "prismahealth.org",
-    "lat": 34.7708878,
-    "lng": -82.242306
+    "lat": 34.7373045,
+    "lng": -82.255371
   },
   {
     "id": "17384179124",
@@ -788,8 +776,8 @@
     "zip": "48033",
     "phone": "2487141635",
     "website": "miorthosurgeons.com",
-    "lat": 42.4576331,
-    "lng": -83.2809666
+    "lat": 42.4894801,
+    "lng": -83.1446485
   },
   {
     "id": "5200522830",
@@ -816,6 +804,18 @@
     "lng": -76.610759
   },
   {
+    "id": "18686264128",
+    "name": "Northern Illinois Foot and Ankle Specialists - Crystal Lake, IL",
+    "address": "750 E. TERRA COTTA AVE",
+    "city": "CRYSTAL LAKE",
+    "state": "IL",
+    "zip": "60014",
+    "phone": "+1 847-639-5800",
+    "website": "https://illinoisfoot.com",
+    "lat": 42.2486921,
+    "lng": -88.2935504
+  },
+  {
     "id": "7073783638",
     "name": "Baylor Scott & White Health - Dallas, TX",
     "address": "3500 Gaston Avenue",
@@ -824,8 +824,8 @@
     "zip": "75246",
     "phone": "+1 844-279-3627",
     "website": "bswhealth.com",
-    "lat": 32.7884786,
-    "lng": -96.7827661
+    "lat": 32.787979,
+    "lng": -96.780062
   },
   {
     "id": "16724815794",
@@ -864,6 +864,18 @@
     "lng": -83.6516123
   },
   {
+    "id": "7187047233",
+    "name": "Bay Foot and Ankle Center - Destin, FL",
+    "address": "928 Mar Walt Drive",
+    "city": "Destin",
+    "state": "FL",
+    "zip": "32547",
+    "phone": "+1 850-855-4048",
+    "website": "bayfootandankle.com",
+    "lat": 30.3935337,
+    "lng": -86.4957834
+  },
+  {
     "id": "10874875938",
     "name": "Forte Sports Medicine - Greenwood, IN",
     "address": "201 Pennsylvania Parkway",
@@ -874,18 +886,6 @@
     "website": "https://forteortho.com",
     "lat": 39.7683331,
     "lng": -86.1583502
-  },
-  {
-    "id": "7187047233",
-    "name": "Bay Foot and Ankle Center - Destin, FL",
-    "address": "928 Mar Walt Drive",
-    "city": "Destin",
-    "state": "FL",
-    "zip": "32547",
-    "phone": "+1 850-855-4048",
-    "website": "bayfootandankle.com",
-    "lat": 30.4461663,
-    "lng": -86.6311858
   },
   {
     "id": "9160073313",
@@ -932,8 +932,8 @@
     "zip": "64086",
     "phone": "8169182077",
     "website": "joelfosterdpm.com",
-    "lat": 38.9107156,
-    "lng": -94.3821295
+    "lat": 38.933749,
+    "lng": -94.3818809
   },
   {
     "id": "4510578827",
@@ -992,8 +992,8 @@
     "zip": "62062",
     "phone": "+16302619500",
     "website": "https://oakbrookpodiatrist.com/",
-    "lat": 41.8552478,
-    "lng": -87.9626281
+    "lat": 41.8559698,
+    "lng": -87.9579237
   },
   {
     "id": "8128373013",
@@ -1004,8 +1004,8 @@
     "zip": "69101",
     "phone": "+1 308-532-3600",
     "website": "https://gpfootandankle.com/",
-    "lat": 41.13032,
-    "lng": -100.7702747
+    "lat": 41.1269601,
+    "lng": -100.7701649
   },
   {
     "id": "14908803084",
@@ -1176,18 +1176,6 @@
     "lng": -87.3328139
   },
   {
-    "id": "17345625113",
-    "name": "Carrell Clinic - Dallas, TX",
-    "address": "9301 North Central Expressway",
-    "city": "Dallas",
-    "state": "TX",
-    "zip": "75231",
-    "phone": "+12142202468",
-    "website": "carrellclinic.com",
-    "lat": 32.8749243,
-    "lng": -96.7712045
-  },
-  {
     "id": "18604304514",
     "name": "OSS Health - York, PA",
     "address": "1855 POWDER MILL ROAD",
@@ -1198,6 +1186,18 @@
     "website": "https://osshealth.com",
     "lat": 39.9170875,
     "lng": -76.6955245
+  },
+  {
+    "id": "18686315381",
+    "name": "Integrated Surgical Specialists - Pottsville, PA",
+    "address": "48 Tunnel Road",
+    "city": "POTTSVILLE",
+    "state": "PA",
+    "zip": "17901-3885",
+    "phone": "1 (570) 624-4777",
+    "website": "https://imgpc.com",
+    "lat": 40.6851324,
+    "lng": -76.1953701
   },
   {
     "id": "31950941221",
@@ -1316,8 +1316,8 @@
     "zip": "32940",
     "phone": "321-637-3788",
     "website": "va.gov",
-    "lat": 28.243006,
-    "lng": -80.7301522
+    "lat": 28.255362,
+    "lng": -80.7434449
   },
   {
     "id": "20174307220",
@@ -1352,8 +1352,8 @@
     "zip": "02301",
     "phone": "+15085834500",
     "website": "https://www.va.gov/boston-health-care/locations/brockton-va-medical-center/",
-    "lat": 42.0608175,
-    "lng": -71.0531918
+    "lat": 42.0602699,
+    "lng": -71.0535323
   },
   {
     "id": "28867486987",
@@ -1448,8 +1448,8 @@
     "zip": "76092",
     "phone": "972-556-2885",
     "website": "allstarortho.com",
-    "lat": 32.9410076,
-    "lng": -97.1383101
+    "lat": 32.9416795,
+    "lng": -97.1370342
   },
   {
     "id": "36528392840",
@@ -1472,8 +1472,8 @@
     "zip": "44691",
     "phone": "1 (330) 345-5500",
     "website": "https://footankledr.com",
-    "lat": 40.7980976,
-    "lng": -81.9397733
+    "lat": 40.8514199,
+    "lng": -81.9457654
   },
   {
     "id": "36527864084",
@@ -1772,8 +1772,8 @@
     "zip": "42718",
     "phone": "(270) 465-0632",
     "website": "www.trhosp.org",
-    "lat": 37.3423126,
-    "lng": -85.3464473
+    "lat": 37.3410134,
+    "lng": -85.3454496
   },
   {
     "id": "22531852948",
@@ -1784,8 +1784,8 @@
     "zip": "27704",
     "phone": "9194779333",
     "website": "https://www.ncfootdoc.com/",
-    "lat": 35.996653,
-    "lng": -78.9018053
+    "lat": 36.0307601,
+    "lng": -78.9056225
   },
   {
     "id": "18686334031",
@@ -1808,8 +1808,8 @@
     "zip": "25550",
     "phone": "3046754340",
     "website": "pvalley.org",
-    "lat": 38.8445251,
-    "lng": -82.1370889
+    "lat": 38.8692323,
+    "lng": -82.1230885
   },
   {
     "id": "28652055328",
@@ -1820,8 +1820,8 @@
     "zip": "34655",
     "phone": "727-372-6637",
     "website": "floridajointcare.com",
-    "lat": 28.1898371,
-    "lng": -82.6667834
+    "lat": 28.1898351,
+    "lng": -82.6667804
   },
   {
     "id": "36527335793",
@@ -2060,8 +2060,8 @@
     "zip": "71203",
     "phone": "(318) 397-1574",
     "website": "https://thefootandankleclinicofwestmonroe.com",
-    "lat": 32.5235116,
-    "lng": -92.0779293
+    "lat": 32.52376,
+    "lng": -92.077786
   },
   {
     "id": "19382388664",
@@ -2108,8 +2108,8 @@
     "zip": "86001",
     "phone": "+1 928-772-5320",
     "website": "",
-    "lat": 35.2103481,
-    "lng": -111.6406038
+    "lat": 35.2103479,
+    "lng": -111.640698
   },
   {
     "id": "31952097066",
@@ -2218,6 +2218,18 @@
     "website": "https://dukehealth.org",
     "lat": 35.824341,
     "lng": -78.8300321
+  },
+  {
+    "id": "36529748262",
+    "name": "Orthopedic Institute - Tea, SD",
+    "address": "2120 Live Stronger St",
+    "city": "Tea",
+    "state": "SD",
+    "zip": "57064",
+    "phone": "(605) 331-5890",
+    "website": "orthopedicinstitutesf.com",
+    "lat": 43.4718629,
+    "lng": -96.802272
   },
   {
     "id": "20655054905",
@@ -2360,8 +2372,8 @@
     "zip": "33322",
     "phone": "1 (954) 476-9024",
     "website": "https://www.drdavidkmorris.com/",
-    "lat": 26.1471291,
-    "lng": -80.2664117
+    "lat": 26.1486625,
+    "lng": -80.2610486
   },
   {
     "id": "32359294814",
@@ -2384,20 +2396,8 @@
     "zip": "02747",
     "phone": "+15089732211",
     "website": "https://www.southcoast.org/doctors/seth-odonnell-md/#/appointment-chooser/providerId/TC103071/patientTypeId",
-    "lat": 41.6573801,
-    "lng": -70.9887592
-  },
-  {
-    "id": "18686315381",
-    "name": "Integrated Surgical Specialists - Pottsville, PA",
-    "address": "48 Tunnel Road",
-    "city": "POTTSVILLE",
-    "state": "PA",
-    "zip": "17901-3885",
-    "phone": "1 (570) 624-4777",
-    "website": "https://imgpc.com",
-    "lat": 40.6851324,
-    "lng": -76.1953701
+    "lat": 41.6582622,
+    "lng": -70.9893764
   },
   {
     "id": "39467263814",
@@ -2444,8 +2444,8 @@
     "zip": "19083",
     "phone": "(610) 449-3344",
     "website": "https://greenfieldpodiatry.com/",
-    "lat": 39.9809452,
-    "lng": -75.3085201
+    "lat": 39.9719127,
+    "lng": -75.2869516
   },
   {
     "id": "41134949644",
@@ -2528,8 +2528,8 @@
     "zip": "34119",
     "phone": "239-566-8800",
     "website": "gulfcoastfootcare.com",
-    "lat": 26.2130295,
-    "lng": -81.7334744
+    "lat": 26.2129547,
+    "lng": -81.7335547
   },
   {
     "id": "40965480961",
@@ -2552,8 +2552,8 @@
     "zip": "37064",
     "phone": "(615) 936-7846",
     "website": "https://www.vanderbilthealth.com/locations/vanderbilt-orthopaedics-franklin?utm_source=Yext",
-    "lat": 35.9061567,
-    "lng": -86.8394948
+    "lat": 35.9064306,
+    "lng": -86.8373801
   },
   {
     "id": "41552083349",
@@ -2612,8 +2612,8 @@
     "zip": "76054",
     "phone": " 817-518-7600 ",
     "website": "https://www.mytfac.com/",
-    "lat": 32.8548194,
-    "lng": -97.1774571
+    "lat": 32.7762719,
+    "lng": -96.7968559
   },
   {
     "id": "45872027822",
@@ -2888,8 +2888,8 @@
     "zip": "14215",
     "phone": "(716) 834-9200",
     "website": "https://www.va.gov/western-new-york-health-care/",
-    "lat": 42.9512149,
-    "lng": -78.8135953
+    "lat": 42.9507987,
+    "lng": -78.8135764
   },
   {
     "id": "36650774618",
@@ -2902,6 +2902,18 @@
     "website": "https://www.tjregionalhealth.org/locations/?query=podiatry&services=Podiatry&cities=Campbellsville",
     "lat": 37.3394894,
     "lng": -85.3611573
+  },
+  {
+    "id": "36776496823",
+    "name": "Olympia Orthopaedic Associates - East Side Clinic - Olympia, WA (Lilly)",
+    "address": "615 Lilly Rd NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "(360) 709-6230",
+    "website": "https://olyortho.com/",
+    "lat": 47.055742,
+    "lng": -122.8448011
   },
   {
     "id": "40806072112",
@@ -2924,8 +2936,20 @@
     "zip": "60435",
     "phone": "630-323-6116",
     "website": "https://www.ibji.com/locations/joliet-doctors-office/",
-    "lat": 41.5389921,
-    "lng": -88.160808
+    "lat": 41.5385708,
+    "lng": -88.1607918
+  },
+  {
+    "id": "47629480825",
+    "name": "Boston, MA - VAMC (Jamaica Plain)",
+    "address": "150 S Huntington Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02130",
+    "phone": "(617) 232-9500",
+    "website": "https://www.va.gov/boston-health-care/",
+    "lat": 42.3267795,
+    "lng": -71.1099898
   },
   {
     "id": "42791689993",
@@ -2936,8 +2960,8 @@
     "zip": "27215",
     "phone": "(336) 538-6885",
     "website": "https://www.triadfoot.com/tfac/",
-    "lat": 36.0832283,
-    "lng": -79.5169355
+    "lat": 36.080798,
+    "lng": -79.5166439
   },
   {
     "id": "36785444356",
@@ -2972,8 +2996,8 @@
     "zip": "46526",
     "phone": "(574) 533-0300",
     "website": "https://www.osmc.com/contact-locations/orthopedic-clinic-goshen-in/",
-    "lat": 41.5517039,
-    "lng": -85.8075771
+    "lat": 41.5515293,
+    "lng": -85.808715
   },
   {
     "id": "45071409668",
@@ -3020,8 +3044,8 @@
     "zip": "15108",
     "phone": "(412) 262-7800",
     "website": "https://www.gpoa.com/",
-    "lat": 40.5063473,
-    "lng": -80.1529635
+    "lat": 40.5063464,
+    "lng": -80.1529777
   },
   {
     "id": "36608048513",
@@ -3056,8 +3080,8 @@
     "zip": "40217",
     "phone": "(502) 893-1844",
     "website": "https://www.louisvillefootandanklespecialists.com/",
-    "lat": 38.2175508,
-    "lng": -85.739448
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "36785445501",
@@ -3236,8 +3260,8 @@
     "zip": "34655",
     "phone": "727-312-3355",
     "website": "https://www.adventhealth.com/hospital/adventhealth-north-pinellas/find-doctor/doctor/ronald-troxell-dpm-1851754824",
-    "lat": 28.1742461,
-    "lng": -82.6708499
+    "lat": 28.174485,
+    "lng": -82.6708969
   },
   {
     "id": "46734626466",
@@ -3308,8 +3332,8 @@
     "zip": "68144",
     "phone": "(402) 751-0600",
     "website": "https://prfootandankle.com/",
-    "lat": 41.2587459,
-    "lng": -95.9383758
+    "lat": 41.2326252,
+    "lng": -96.0905852
   },
   {
     "id": "39461206641",
@@ -3456,18 +3480,6 @@
     "lng": -94.154285
   },
   {
-    "id": "36529748262",
-    "name": "Orthopedic Institute - Tea, SD",
-    "address": "2120 Live Stronger St",
-    "city": "Tea",
-    "state": "SD",
-    "zip": "57064",
-    "phone": "(605) 331-5890",
-    "website": "orthopedicinstitutesf.com",
-    "lat": 43.4718629,
-    "lng": -96.802272
-  },
-  {
     "id": "42791692548",
     "name": "Triad Foot and Ankle Center - Asheboro, NC",
     "address": "600 W. Salisbury Street, Suite D",
@@ -3478,18 +3490,6 @@
     "website": "https://www.triadfoot.com/tfac/",
     "lat": 35.7079146,
     "lng": -79.8136446
-  },
-  {
-    "id": "36776496823",
-    "name": "Olympia Orthopaedic Associates - East Side Clinic - Olympia, WA (Lilly)",
-    "address": "615 Lilly Rd NE",
-    "city": "Olympia",
-    "state": "WA",
-    "zip": "98506",
-    "phone": "(360) 709-6230",
-    "website": "https://olyortho.com/",
-    "lat": 47.055742,
-    "lng": -122.8448011
   },
   {
     "id": "36608050852",
@@ -3704,8 +3704,8 @@
     "zip": "39216",
     "phone": "(601) 982-3338",
     "website": "https://www.msfootcenter.com/",
-    "lat": 32.3314651,
-    "lng": -90.1356556
+    "lat": 32.3314923,
+    "lng": -90.1357664
   },
   {
     "id": "55592629786",
@@ -3920,8 +3920,8 @@
     "zip": "76051",
     "phone": "(817) 421-0505",
     "website": "https://www.tiosorthosports.com/",
-    "lat": 32.9315446,
-    "lng": -97.0920252
+    "lat": 32.9229214,
+    "lng": -97.1129613
   },
   {
     "id": "53883933500",
@@ -3956,8 +3956,8 @@
     "zip": "27612",
     "phone": "9197815600",
     "website": "raleighortho.com",
-    "lat": 35.8342315,
-    "lng": -78.6969032
+    "lat": 35.822644,
+    "lng": -78.708631
   },
   {
     "id": "53077351351",
@@ -4124,8 +4124,8 @@
     "zip": "75216",
     "phone": "(214) 742-8387",
     "website": "https://www.va.gov/north-texas-health-care/",
-    "lat": 32.6955002,
-    "lng": -96.7870724
+    "lat": 32.6946156,
+    "lng": -96.7888898
   },
   {
     "id": "55357469360",
@@ -4236,6 +4236,18 @@
     "lng": -78.3900826
   },
   {
+    "id": "57248534817",
+    "name": "Providence, RI - VAMC",
+    "address": "830 Chalkstone Ave",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02908",
+    "phone": "(401) 273-7100",
+    "website": "https://www.va.gov/providence-health-care/locations/providence-va-medical-center/",
+    "lat": 41.8318027,
+    "lng": -71.4327732
+  },
+  {
     "id": "57140785968",
     "name": "McFarland Clinic - Marshalltown, IA",
     "address": "421 East Merle Hibbs Boulevard",
@@ -4260,18 +4272,6 @@
     "lng": -106.0988164
   },
   {
-    "id": "47629480825",
-    "name": "Boston, MA - VAMC (Jamaica Plain)",
-    "address": "150 S Huntington Ave",
-    "city": "Boston",
-    "state": "MA",
-    "zip": "02130",
-    "phone": "(617) 232-9500",
-    "website": "https://www.va.gov/boston-health-care/",
-    "lat": 42.3267795,
-    "lng": -71.1099898
-  },
-  {
     "id": "54711479319",
     "name": "UPMC Harrisburg - Harrisburg, PA",
     "address": "111 S. Front St.",
@@ -4280,8 +4280,8 @@
     "zip": "17101",
     "phone": "+14126478762",
     "website": "https://www.upmc.com/locations/hospitals/harrisburg",
-    "lat": 40.2584313,
-    "lng": -76.8802424
+    "lat": 40.2577319,
+    "lng": -76.8797312
   },
   {
     "id": "49162224541",
@@ -4292,8 +4292,8 @@
     "zip": "37067",
     "phone": " 615-791-2630",
     "website": "bjit.org",
-    "lat": 35.9176646,
-    "lng": -86.8170337
+    "lat": 35.9176626,
+    "lng": -86.8170332
   },
   {
     "id": "57020841814",
@@ -4316,8 +4316,8 @@
     "zip": "37174",
     "phone": "(931) 347-2663",
     "website": "https://toa.com/locations/spring-hill",
-    "lat": 35.7362895,
-    "lng": -86.9119459
+    "lat": 35.7360787,
+    "lng": -86.9119671
   },
   {
     "id": "55508213866",
@@ -4340,8 +4340,8 @@
     "zip": "33462",
     "phone": "(561) 967-4999",
     "website": "https://sffac.com/",
-    "lat": 26.5829913,
-    "lng": -80.0619332
+    "lat": 26.615891,
+    "lng": -80.0691435
   },
   {
     "id": "55508212364",
@@ -4388,8 +4388,8 @@
     "zip": "28277",
     "phone": "704-455-2999",
     "website": "https://www.ryanfoot.com/harrisburg-office",
-    "lat": 35.0499623,
-    "lng": -80.8181888
+    "lat": 35.3258295,
+    "lng": -80.6454979
   },
   {
     "id": "48492222784",
@@ -4436,8 +4436,8 @@
     "zip": "98108",
     "phone": "800-329-8387",
     "website": "https://www.va.gov/puget-sound-health-care/locations/seattle-va-medical-center/",
-    "lat": 47.5630816,
-    "lng": -122.3068931
+    "lat": 47.5624114,
+    "lng": -122.3083385
   },
   {
     "id": "56468476575",
@@ -4460,8 +4460,8 @@
     "zip": "72143",
     "phone": "(501) 207-4700",
     "website": "https://www.va.gov/central-arkansas-health-care/locations/searcy-va-clinic/",
-    "lat": 35.2383403,
-    "lng": -91.7350084
+    "lat": 35.236427,
+    "lng": -91.7336323
   },
   {
     "id": "53948580628",
@@ -4496,8 +4496,8 @@
     "zip": "27545",
     "phone": "(919) 385-3666",
     "website": "https://www.dukehealth.org/locations/duke-orthopaedics-of-knightdale",
-    "lat": 35.7962127,
-    "lng": -78.5186412
+    "lat": 35.7980043,
+    "lng": -78.5182916
   },
   {
     "id": "52069386131",
@@ -4508,8 +4508,8 @@
     "zip": "33903",
     "phone": "(239) 656-6565",
     "website": "https://fortmyersfootwellness.com/",
-    "lat": 26.6984128,
-    "lng": -81.9007238
+    "lat": 26.7119122,
+    "lng": -81.9024605
   },
   {
     "id": "53656962420",
@@ -4568,8 +4568,8 @@
     "zip": "75010",
     "phone": "(972) 394-0825",
     "website": "https://www.swpfa.com/",
-    "lat": 33.0279035,
-    "lng": -96.8842841
+    "lat": 33.0284071,
+    "lng": -96.8839854
   },
   {
     "id": "48256049505",
@@ -4604,8 +4604,8 @@
     "zip": "84108",
     "phone": "(801) 582-1565",
     "website": "https://www.va.gov/salt-lake-city-health-care/",
-    "lat": 40.725657,
-    "lng": -111.8147582
+    "lat": 40.7473221,
+    "lng": -111.8321826
   },
   {
     "id": "56136869755",
@@ -4664,8 +4664,8 @@
     "zip": "85008",
     "phone": "(602) 222-3032",
     "website": "https://www.pongratzop.com/",
-    "lat": 33.4565279,
-    "lng": -111.9698753
+    "lat": 33.4725175,
+    "lng": -111.9696621
   },
   {
     "id": "53077176991",
@@ -4724,8 +4724,8 @@
     "zip": "25601",
     "phone": "304.831.1720",
     "website": "https://www.loganregionalmedicalcenter.com",
-    "lat": 37.8465029,
-    "lng": -81.9945093
+    "lat": 37.8465102,
+    "lng": -81.9945336
   },
   {
     "id": "54830328209",
@@ -4784,8 +4784,8 @@
     "zip": "16001",
     "phone": "724-482-4192",
     "website": "https://butlerpodiatry.com/",
-    "lat": 40.8650843,
-    "lng": -79.9682854
+    "lat": 40.8648894,
+    "lng": -79.9681915
   },
   {
     "id": "53948569782",
@@ -4796,8 +4796,8 @@
     "zip": "51503",
     "phone": "(712) 396-2000",
     "website": "https://orthonebraska.com/location/council-bluffs/",
-    "lat": 41.2483984,
-    "lng": -95.8148183
+    "lat": 41.2463804,
+    "lng": -95.8168004
   },
   {
     "id": "57937777450",
@@ -4808,8 +4808,8 @@
     "zip": "20678",
     "phone": "410.535.4884",
     "website": "https://precisionorthomd.com/",
-    "lat": 38.5418717,
-    "lng": -76.5892521
+    "lat": 38.5418716,
+    "lng": -76.5892559
   },
   {
     "id": "58352464435",
@@ -4856,8 +4856,8 @@
     "zip": "27514",
     "phone": "(919) 281-1854",
     "website": "https://emergeortho.com/locations/chapel-hill/?region=triangle-region%3Futm_source%3Dgbp",
-    "lat": 35.9643275,
-    "lng": -79.0561007
+    "lat": 35.9645455,
+    "lng": -79.0571284
   },
   {
     "id": "58184974972",
@@ -5024,8 +5024,8 @@
     "zip": "35801",
     "phone": "(256) 539-2728 ",
     "website": "visittoc.com",
-    "lat": 34.7208804,
-    "lng": -86.5770831
+    "lat": 34.720931,
+    "lng": -86.577119
   },
   {
     "id": "58603063679",
@@ -5036,7 +5036,7 @@
     "zip": "79410",
     "phone": "(806) 793-6811",
     "website": "https://drmarkbarinque.com/",
-    "lat": 33.5748894,
+    "lat": 33.5739851,
     "lng": -101.896532
   },
   {
@@ -5072,8 +5072,8 @@
     "zip": "27514",
     "phone": "(919) 960-8858",
     "website": "https://www.chapelhillfootandankle.com/",
-    "lat": 35.9299903,
-    "lng": -79.0324639
+    "lat": 35.9299412,
+    "lng": -79.0326502
   },
   {
     "id": "57983053659",
@@ -5158,18 +5158,6 @@
     "website": "https://www.va.gov/hampton-health-care/locations/hampton-va-medical-center/",
     "lat": 37.0169734,
     "lng": -76.3321083
-  },
-  {
-    "id": "57248534817",
-    "name": "Providence, RI - VAMC",
-    "address": "830 Chalkstone Ave",
-    "city": "Providence",
-    "state": "RI",
-    "zip": "02908",
-    "phone": "(401) 273-7100",
-    "website": "https://www.va.gov/providence-health-care/locations/providence-va-medical-center/",
-    "lat": 41.8318027,
-    "lng": -71.4327732
   },
   {
     "id": "58339118705",
@@ -5266,18 +5254,6 @@
     "website": "https://www.footankleil.com/",
     "lat": 41.9575285,
     "lng": -88.0809036
-  },
-  {
-    "id": "59170210157",
-    "name": "Orthopedic Associates of Port Huron - Port Huron, MI",
-    "address": "940 River Centre Dr",
-    "city": "Port Huron",
-    "state": "MI",
-    "zip": "48060",
-    "phone": "(810) 985-4900",
-    "website": "https://www.oaph.com/",
-    "lat": 42.9778075,
-    "lng": -82.4316773
   },
   {
     "id": "57940427104",
